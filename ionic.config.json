@@ -1,0 +1,7 @@
+{
+  "name": "Nfc-wallet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
